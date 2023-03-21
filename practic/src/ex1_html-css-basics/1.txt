@@ -1,0 +1,84 @@
+<html>
+<head> 
+    <title> Дмитрий Литвиненко</title>
+    <meta charset="utf-8" />
+    <style>
+
+	table {
+		border: 1px solid black;
+		border-collapse: collapse;
+		width: 600px
+	}
+	th {
+		border: 1px solid black;
+		text-align:center
+	}
+	td {
+		border: 1px solid black;
+		text-align:center
+	}
+
+    </style>
+</head>
+<body> 
+<h1> Заголовок 1 </h1>
+<hr/>
+<h2> Заголовок 2 </h2>
+<hr/>
+<h3> Заголовок 3 </h3>
+<hr/>
+<h4> Заголовок 4 </h4>
+<hr/>
+<h5> Заголовок 5 </h5>
+<hr/>
+<h6> Заголовок 6 </h6>
+<hr/>
+
+Список: 
+<ol>
+<li>Первый</li>
+<li>Второй</li>
+<li>Третий</li>
+<li>Четвертый</li>
+<li>Пятый</li>
+</ol>
+
+<div class = "container">
+
+<div class = "cataloge">
+<div class = "item"> Это контейнер </div>
+<div class = "item"style = "background-color:#858965"> И это контейнер </div>
+</div>
+</div>
+
+<p></p>
+
+<table >
+<tr><th> I </th><th> U </th><th> R </th></tr>
+<tr><td> 100 </td><td> 220 </td><td> 1000 </td></tr>
+</table>
+
+<p></p>
+
+<img src = "RSREU.jpg">
+
+<p></p>
+
+<a href = "https://vk.com/id208966328"> Официальный сайт </a>
+
+<p></p>
+
+<pre>
+К а к о й т о
+             т е к с т
+</pre>
+
+<p></p>
+
+<p> Параграф <br> разделенный <br> абзацами <br>4 раза</>
+
+</body>
+</html>
+
+
+
